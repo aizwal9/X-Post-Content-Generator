@@ -78,8 +78,3 @@ MIT License
 
 - [Streamlit](https://streamlit.io/)
 - [Google Gemini API](https://ai.google.dev/)
-
----
-
-**Note:** Never share your API keys publicly.  
-Remove your `.env` file before pushing to GitHub. Use
